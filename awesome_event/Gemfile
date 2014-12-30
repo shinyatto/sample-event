@@ -29,6 +29,7 @@ gem 'kaminari'
 #gem 'kaminari-bootstrap'
 gem 'ransack'
 gem 'carrierwave'
+gem 'mini_magick', '~> 3.7.0'
 
 
 # Use ActiveModel has_secure_password
