@@ -28,6 +28,7 @@ gem 'omniauth-twitter', '~> 1.0.1'
 gem 'kaminari'
 #gem 'kaminari-bootstrap'
 gem 'ransack'
+gem 'carrierwave'
 
 
 # Use ActiveModel has_secure_password
